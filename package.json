@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-android-material",
+  "version": "0.1.0",
+  "description": "Google Android Material",
+  "cordova": {
+    "id": "cordova-plugin-android-material",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnowBases/cordova-android-material.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "SnowBases",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SnowBases/cordova-android-material/issues"
+  },
+  "homepage": "https://github.com/SnowBases/cordova-android-material#readme"
+}
